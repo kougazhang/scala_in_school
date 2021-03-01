@@ -15,3 +15,8 @@ Twitter Scala School 的学习笔记.
 [类型和多态基础](./类型和多态基础.md)
 
 [高级类型](./高级类型.md)
+
+简单构建工具: 使用 mvn 而不是 sbt (sbt 太慢了, 即便在使用网络代理的情况下)
+
+[MoreCollection](./MoreCollection.md)
+
